@@ -3,7 +3,7 @@
 # this script automatically sets permanent adb via wifi and eventually start scrcpy through WiFi
 
 # set the default adbd listening port. You can change it accordingly..
-port="5555"
+port="443"
 
 ######################################################################################################################
 # clear
